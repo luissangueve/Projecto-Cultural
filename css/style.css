@@ -156,7 +156,7 @@ nav #i-close{
  .cards{
     display: flex;
     justify-content: center;
-    flex-wrap: wrap;
+  
  }
  .depoimentos h3{
     text-align: center;
@@ -522,6 +522,11 @@ nav #i-close{
     flex-wrap: wrap;
    
    }
+   .cards{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+ }
 
    /*página sobre responsiva*/
    .sobre .container{
