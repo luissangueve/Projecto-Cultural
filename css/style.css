@@ -334,6 +334,40 @@ nav #i-close{
     font-size: 28pxpx;
 
 }
+/*Tela novidades*/
+
+.novidades{
+    background-color: #d3e6fd;
+}
+
+.novidades .novidade1{
+    display: flex;
+    height: fit-content;
+    align-items: center;
+    justify-content: flex-start;
+    
+    margin: 10px auto;
+    
+    border-radius: 10px;
+    
+}
+.novidades .novidade1 h3{
+   font-size: 24px;
+}
+.novidades .novidade1 h3{
+    font-size: 24px;
+ }
+ .novidades .novidade1-text{
+    width: 70%;
+    
+ }
+
+ .novidade1-img img{
+    height: 100%;
+    width: 80px;
+
+    background-color: red;
+ }
 
 /*contactos*/
 .contacto-info{
@@ -457,7 +491,7 @@ nav #i-close{
         margin: 80px;
     }
     .banner .banner-text h1{
-        font-size: 80px;
+        font-size: 65px;
     }
     .banner .banner-text p{
         font-size: 15px;
@@ -512,8 +546,14 @@ nav #i-close{
         width: 100%;
         margin-top: 10px;
     }
-   
-   
+   /*novidades*/
+   .novidades .novidade1 h3{
+    font-size: 22px;
+   }
+
+   .novidades .novidade1-text{
+         width: 60%;
+   }
 
 }
 
