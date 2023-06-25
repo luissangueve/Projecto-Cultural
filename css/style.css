@@ -558,6 +558,7 @@ nav #i-close{
     
       height: 90px;
       width: 90px;
+      justify-content: center;
       
   }
   .novidades .novidade1-img img{
