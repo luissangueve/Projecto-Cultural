@@ -368,6 +368,10 @@ nav #i-close{
 
     background-color: red;
  }
+ .container .novidade1-text a:hover{
+        color: #184b88;
+        text-decoration: underline;
+ }
 
 /*contactos*/
 .contacto-info{
@@ -558,7 +562,7 @@ nav #i-close{
     
       height: 90px;
       width: 90px;
-      justify-content: center;
+      margin-right: 5px;
       
   }
   .novidades .novidade1-img img{
