@@ -548,12 +548,23 @@ nav #i-close{
     }
    /*novidades*/
    .novidades .novidade1 h3{
-    font-size: 22px;
+    font-size: 19px;
    }
 
    .novidades .novidade1-text{
          width: 60%;
    }
+   .novidades .novidade1-img{
+    
+      height: 20px;
+      width: 20px;
+  }
+  .novidades .novidade1-img img{
+    
+    height: 100%;
+    width: 100%;
+}
+
 
 }
 
